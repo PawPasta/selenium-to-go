@@ -51,10 +51,10 @@ class Guru99Test {
         // Ta phai di tim cac tag trong trang login tuong ung
 
         WebElement userTextBox = myBrowser.findElement(By.name("uid"));
-        userTextBox.sendKeys("mngr598895");
+        userTextBox.sendKeys("mngr620495");
 
         WebElement passwordTextBox = myBrowser.findElement(By.name("password"));
-        passwordTextBox .sendKeys("ebYqybu");
+        passwordTextBox .sendKeys("Arymuge");
 
         WebElement loginButton = myBrowser.findElement(By.name("btnLogin"));
         loginButton.click();

@@ -13,8 +13,8 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 public class Main {
     public static void main(String[] args) {
 
-//        User ID :	mngr598895
-//        Password :	ebYqybu
+//        User ID :	mngr620495
+//        Password :	Arymuge
         String geckodriver = "geckodriver.exe";
         String webgeckodriver = "webdriver.gecko.driver";
 
